@@ -14,7 +14,7 @@ I'm passionate about **Data Science, AI, and Software Development**. My goal is 
 ---
 
 ## 📊 Stats  
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?yribeiro333=SeuGitHub&show_icons=true&theme=dark)](https://github.com/yribeiro333)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?yribeiro333=yribeiro333&show_icons=true&theme=dark)](https://github.com/yribeiro333)
 
 ---
 
